@@ -15,7 +15,7 @@ public class StringUtil {
         String swapCase = StringUtils.swapCase(userInput);
         System.out.println(swapCase);
 
-        // Exercise 3
+        // Exercise3
         String backwards = StringUtils.reverse(userInput);
         System.out.println(backwards);
 
